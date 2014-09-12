@@ -1,0 +1,16 @@
+D:\HDD\projects\RootSrv\RootSrv\bin\Debug\RootSrv.exe.config
+D:\HDD\projects\RootSrv\RootSrv\bin\Debug\RootSrv.exe
+D:\HDD\projects\RootSrv\RootSrv\bin\Debug\RootSrv.pdb
+D:\HDD\projects\RootSrv\RootSrv\bin\Debug\AeraClass.dll
+D:\HDD\projects\RootSrv\RootSrv\bin\Debug\MySql.Data.dll
+D:\HDD\projects\RootSrv\RootSrv\bin\Debug\ServiceTools.dll
+D:\HDD\projects\RootSrv\RootSrv\bin\Debug\AeraClass.pdb
+D:\HDD\projects\RootSrv\RootSrv\obj\Debug\RootSrv.exe
+D:\HDD\projects\RootSrv\RootSrv\obj\Debug\RootSrv.pdb
+D:\HDD\projects\RootSrv\RootSrv\obj\Debug\RootSrv.csprojResolveAssemblyReference.cache
+D:\HDD\Pub\Dropbox\projects2\RootSrvDNSserver\RootSrv\bin\Debug\RootSrv.exe.config
+D:\HDD\Pub\Dropbox\projects2\RootSrvDNSserver\RootSrv\obj\Debug\RootSrv.exe
+D:\HDD\Pub\Dropbox\projects2\RootSrvDNSserver\RootSrv\obj\Debug\RootSrv.pdb
+D:\HDD\Pub\Dropbox\Projects\RootSrvDNSserver\RootSrv\bin\Debug\RootSrv.exe.config
+D:\HDD\Pub\Dropbox\Projects\RootSrvDNSserver\RootSrv\obj\Debug\RootSrv.exe
+D:\HDD\Pub\Dropbox\Projects\RootSrvDNSserver\RootSrv\obj\Debug\RootSrv.pdb
